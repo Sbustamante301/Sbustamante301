@@ -32,11 +32,8 @@ Here are some ideas to get you started:
       </h3>
  </div>
 
-      <div id="badges" align="center">
+ <div id="badges" align="center">
         <a href="https://www.linkedin.com/in/sebastian-bustamante-82423a25b/">
-          <img
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="Linkedin Badge"
-          />
-        </a>
-      </div>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+</a>
+ </div>
