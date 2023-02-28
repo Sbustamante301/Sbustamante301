@@ -22,13 +22,8 @@ Here are some ideas to get you started:
       <h1 align="center">Hello there! 👋</h1>
       <h3 align="center">
         I'm Sebastian Bustamante, a full-stack developer passionate about web
-        development and technology. I have experience with Ruby on Rails and
-        ReactJS, and my strength lies in frontend development and my
-        communication and teamwork skills. I seek challenging projects that
-        allow me to grow and improve my skills as a developer. I'm always
-        looking for new technologies and opportunities to keep learning. I'm
-        willing to collaborate on open-source projects and I'm open to new
-        opportunities.
+        development and technology.  I seek challenging projects that
+        allow me to grow and improve my skills as a developer.
       </h3>
  </div>
 
@@ -37,3 +32,34 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" />
 </a>
  </div>
+ 
+ ---
+ 
+ ### 👨‍💻 About Me :
+
+- ⚡ Fun fact: **Pizza with pineapple, ALWAYS**
+- 🌱 I’m currently learning  **Python and Bootstrap**
+- 📫 How to reach me **sbustamante301@gmail.com**
+
+
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgresql" **alt="Postgres" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" **alt="Rails" width="40" height="40"/>&nbsp;
+     
+     
+        
+      
+</div>
+
+---
+
+
+
